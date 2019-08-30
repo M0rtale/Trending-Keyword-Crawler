@@ -10,3 +10,4 @@ Compiles and tested on DrJava.
 - Add more sites
 - Fix FOX news
 - Fix BBC news
+- Implement better ranking method
