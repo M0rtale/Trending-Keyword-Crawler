@@ -1,5 +1,5 @@
-# Trending-Keyword-Leecher
-leeches trending keywords from news sites
+# Trending-Keyword-Crawler
+Crawler trending keywords from news sites
 
 
 Compiles and tested on DrJava.
